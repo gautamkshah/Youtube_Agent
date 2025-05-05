@@ -1,0 +1,9 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+youtube-transcript-api>=0.6.1
+langchain-community>=0.0.29
+langchain-openai>=0.1.0
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+langchain-huggingface>=0.0.2
+sentence-transformers>=2.2.2
